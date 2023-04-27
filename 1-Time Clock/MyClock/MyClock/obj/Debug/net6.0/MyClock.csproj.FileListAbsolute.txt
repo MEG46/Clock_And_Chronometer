@@ -1,0 +1,15 @@
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\MyClock.csproj.AssemblyReference.cache
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\MyClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\MyClock.AssemblyInfoInputs.cache
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\MyClock.AssemblyInfo.cs
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\MyClock.csproj.CoreCompileInputs.cache
+C:\Users\ESAD\source\repos\MyClock\MyClock\bin\Debug\net6.0\MyClock.exe
+C:\Users\ESAD\source\repos\MyClock\MyClock\bin\Debug\net6.0\MyClock.deps.json
+C:\Users\ESAD\source\repos\MyClock\MyClock\bin\Debug\net6.0\MyClock.runtimeconfig.json
+C:\Users\ESAD\source\repos\MyClock\MyClock\bin\Debug\net6.0\MyClock.dll
+C:\Users\ESAD\source\repos\MyClock\MyClock\bin\Debug\net6.0\MyClock.pdb
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\MyClock.dll
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\refint\MyClock.dll
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\MyClock.pdb
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\MyClock.genruntimeconfig.cache
+C:\Users\ESAD\source\repos\MyClock\MyClock\obj\Debug\net6.0\ref\MyClock.dll
